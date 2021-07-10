@@ -10,6 +10,12 @@ It is based on [svelte-drag-and-drop-actions](https://github.com/rozek/svelte-dr
 
 (under active development, please stay tuned)
 
+## Installation ##
+
+```
+npm install svelte-sortable-nested-list-view
+```
+
 ## Build Instructions ##
 
 You may easily build this package yourself.
